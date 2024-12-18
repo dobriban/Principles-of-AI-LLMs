@@ -7,7 +7,7 @@ The course is structured around topics such as transformer architectures, empiri
 ## Course Topics and Goals
 - Introduce fundamental concepts in AI and LLMs.
 - Discuss architecture and principles of LLMs, including transformers.
-- Explore topics in LLMs and modern AI systems such as training paradigms (pre-training, post-training, alignment), inference/test-time computations, embedding/representations, evaluations, capabilities, safety/security (jailbreaking, oversight, hallucinations, uncertainty), interpretability (circuits).
+- Explore topics in LLMs and modern AI systems such as training paradigms (pre-training, post-training, alignment), inference/test-time computations, embeddings/representations, evaluations, capabilities, safety/security (jailbreaking, oversight, hallucinations, uncertainty), interpretability (circuits).
 - Student presentations on key research papers and recent breakthroughs.
 
 ## Reference Materials
@@ -45,8 +45,8 @@ The course is structured around topics such as transformer architectures, empiri
 - Ensuring Robustness and Security
 
 ### Mechanistic Interpretability
-- Understanding Transformer Circuits
-- Role of Neurons in Knowledge Representation
+- Embeddings and Representations
+- Transformer Circuits
 
 ## Student Presentations
 After initial lectures, students will lead presentations on topics of their choice in recent advances or research questions in AI. 
