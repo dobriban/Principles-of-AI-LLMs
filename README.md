@@ -29,14 +29,15 @@ The course is structured around topics such as transformer architectures, empiri
 - Empirical Behavior: Scaling Laws, Emergence
 - Extensions: Vision and Multimodal Language Models
 
-### Training and Post-Training
+### Pre-Training and Post-Training
 - Pre-Training Paradigms
-- Fine-Tuning and Instruction Tuning
-- Reward Learning and Reinforcement Learning from Human Feedback (RLHF)
+- Post-Training: Fine-Tuning and Instruction Tuning
+- Alignment: Reward Learning and Reinforcement Learning from Human Feedback (RLHF)
 
 ### Inference and Decoding
 - Simple and Advanced Sampling Methods
 - Prompting, Chain-of-Thought, and Tree-of-Thought
+- Reasoning
 - Test-Time Efficiency
 
 ### Safety and Robustness
