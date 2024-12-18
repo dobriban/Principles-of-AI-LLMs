@@ -8,7 +8,7 @@ The course is structured around topics such as transformer architectures, empiri
 - Introduce fundamental concepts in AI and LLMs.
 - Discuss architecture and principles of LLMs, including transformers.
 - Explore topics in LLMs and modern AI systems such as training paradigms (pre-training, post-training, alignment), inference/test-time computations, embedding/representations, evaluations, capabilities, safety/security (jailbreaking, oversight, hallucinations, uncertainty), interpretability (circuits).
-- Engage with key research papers and recent breakthroughs.
+- Student presentations on key research papers and recent breakthroughs.
 
 ## Reference Materials
 - [Course Syllabus](#)
@@ -34,11 +34,10 @@ The course is structured around topics such as transformer architectures, empiri
 - Post-Training: Fine-Tuning and Instruction Tuning
 - Alignment: Reward Learning and Reinforcement Learning from Human Feedback (RLHF)
 
-### Inference and Decoding
+### Inference and Decoding (Test-Time Computation)
 - Simple and Advanced Sampling Methods
 - Prompting, Chain-of-Thought, and Tree-of-Thought
 - Reasoning
-- Test-Time Efficiency
 
 ### Safety and Robustness
 - Jailbreaking and Oversight Mechanisms
@@ -53,4 +52,4 @@ The course is structured around topics such as transformer architectures, empiri
 After initial lectures, students will lead presentations on topics of their choice in recent advances or research questions in AI. 
 
 ## Additional Resources
-- [Additional Resources](#) *(Video tutorials, workshops, datasets)*
+- [Additional Resources](#) *(To be added: Links to other courses, tutorials, videos, workshops, etc.)*
