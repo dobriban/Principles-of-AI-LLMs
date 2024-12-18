@@ -1,8 +1,8 @@
 # Principles of AI: LLMs (UPenn, Stat 9910, Spring 2025)
 
-This course provides an in-depth exploration of Large Language Models (LLMs), from their fundamental principles to cutting-edge research directions. We aim to discuss the design and future of AI systems through lecture content and student-led presentations.
+This course explores of Large Language Models (LLMs), from their fundamental principles to cutting-edge research directions. We aim to discuss the design and future of AI systems through lecture content and student-led presentations.
 
-The course is structured around critical topics such as transformer architecture, empirical behaviors, training paradigms, and safety considerations. Students will also explore emerging challenges and the broader implications of AI technologies.
+The course is structured around topics such as transformer architectures, empirical behaviors, training paradigms, and safety considerations. Students will also explore emerging challenges and the broader implications of AI technologies.
 
 ## Course Topics and Goals
 - Introduce fundamental concepts in AI and LLMs.
@@ -26,6 +26,7 @@ The course is structured around critical topics such as transformer architecture
 - Transformer Mechanisms and Attention
 - Key Architecture Details: Positional Encoding, Faster Attention
 - Variations Across Model Architectures (e.g., GPT, Llama)
+- Empirical Behavior: Scaling Laws, Emergence
 - Extensions: Vision and Multimodal Language Models
 
 ### Training and Post-Training
