@@ -1,4 +1,4 @@
-# Principles of AI: LLMs (UPenn, Stat 9910, Spring 2025)
+# Principles of AI: LLMs (UPenn, Stat 9911, Spring 2025)
 
 This course explores of Large Language Models (LLMs), from their fundamental principles to cutting-edge research directions. We aim to discuss the design and future of AI systems through lecture content and student-led presentations.
 
