@@ -12,7 +12,7 @@ The course is structured around topics such as transformer architectures, empiri
 
 ## Reference Materials
 - [Course Syllabus](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/syllabus.pdf)
-- [Lecture  Notes](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Principles_of_AI.pdf)
+- [Lecture  Notes](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Principles_of_AI.pdf); Note these are work in progress.
 
 ## Lecture Content
 
