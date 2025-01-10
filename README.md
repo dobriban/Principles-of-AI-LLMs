@@ -60,6 +60,11 @@ After initial lectures, students will lead presentations on topics of their choi
 
 
 ### Tutorials, videos, 
+- Andrej Karpathy's [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) video lectures. 100% coding-based, hands-on tutorial on implementing basic autodiff, neural nets, language models, and GPT-2 mini (124M params). 
+
+### Key papers
+- [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783). Possibly the highest information content anywhere about LLMs.
+
 ### Workshops, conferences
 
 
