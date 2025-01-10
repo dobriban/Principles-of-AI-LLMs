@@ -52,4 +52,15 @@ The course is structured around topics such as transformer architectures, empiri
 After initial lectures, students will lead presentations on topics of their choice in recent advances or research questions in AI. 
 
 ## Additional Resources
-- [Additional Resources](#) *(To be added: Links to other courses, tutorials, videos, workshops, etc.)*
+### Links to other courses
+- [Foundations of Large Language Models](https://www.dropbox.com/scl/fo/v3jbijgpew64vv77cpwen/h?rlkey=hx1ux02uvhzdpq6tmbvo0bsuk&e=1&dl=0), U of Michigan, 2024
+- [Language Modeling from Scratch](https://stanford-cs336.github.io/spring2024/), Stanford, Spring 2024
+- [Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/), U of Waterloo, Winter 2024
+- [Large Models](https://www.cs.toronto.edu/~cmaddis/courses/csc2541_w25/), U of Toronto, Winter 2025
+
+
+### Tutorials, videos, 
+### Workshops, conferences
+
+
+
