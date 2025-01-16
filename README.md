@@ -16,7 +16,7 @@ The course is structured around topics such as transformer architectures, empiri
 
 ## Lecture Content
 
-### Introduction (Lec [01](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_01.pdf), 02)
+### Introduction (Lec [01](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_01.pdf), [02](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_02.pdf))
 - What is AI? Definitions and Goals
 - Historical Overview of Artificial Intelligence
 - The Challenge of AGI and Feasibility of AI in Daily Tasks
