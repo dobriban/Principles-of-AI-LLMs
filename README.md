@@ -65,8 +65,9 @@ After initial lectures, students will lead presentations on topics of their choi
 ### Key papers
 - [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) describes the Llama 2 "open LLM" developed by Meta. Possibly the highest information content anywhere about LLMs.
 
-### Tutorials, book chapters 
+### Tutorials, books and book chapters 
 - The corresponding sections in the [Understanding Deep Learning](https://udlbook.github.io/udlbook/) book. See also the associated tutorial posts: [LLMs](https://www.borealisai.com/research-blogs/a-high-level-overview-of-large-language-models/); Transformers [1](https://www.borealisai.com/research-blogs/tutorial-14-transformers-i-introduction/), [2](https://www.borealisai.com/research-blogs/tutorial-16-transformers-ii-extensions/), [3](https://www.borealisai.com/research-blogs/tutorial-17-transformers-iii-training/); [Training and fine-tuning](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/);  [Inference](https://www.borealisai.com/research-blogs/speeding-up-inference-in-transformers/)
+- [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) book
 
 ### Workshops, conferences
 [NeurIPS](https://nips.cc/), [ICML](https://icml.cc/), [ICLR](https://iclr.cc/)
