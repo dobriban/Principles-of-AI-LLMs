@@ -21,7 +21,7 @@ The course is structured around topics such as transformer architectures, empiri
 - Historical Overview of Artificial Intelligence
 - The Challenge of AGI and Feasibility of AI in Daily Tasks
 
-### LLM Architectures (Lec [03](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_03.pdf))
+### LLM Architectures (Lec [03](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_03.pdf), [04](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_04.pdf))
 - Input/Output Processing in AI Systems
 - Transformer Mechanisms and Attention
 - Key Architecture Details: Positional Encoding, Faster Attention
