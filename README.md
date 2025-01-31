@@ -11,8 +11,8 @@ The course is structured around topics such as transformer architectures, empiri
 - Student presentations on key research papers and recent breakthroughs.
 
 ## Reference Materials
-- [Course Syllabus](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/syllabus.pdf). Note: the official course title is "Sem In Adv Appl Of Stat: Advances In Artificial Intelligence"; however we will use the unofficial title for our purposes.
-- [Lecture  Notes](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Principles_of_AI.pdf); Note: these are work in progress.
+- [Course Syllabus](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/syllabus.pdf). 
+- [Lecture  Notes](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Principles_of_AI.pdf); Work in progress.
 
 ## Lecture Content
 
