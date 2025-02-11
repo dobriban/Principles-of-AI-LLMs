@@ -29,7 +29,7 @@ The course is structured around topics such as transformer architectures, empiri
 - Empirical Behavior: Scaling Laws, Emergence
 - Extensions: Vision and Multimodal Language Models
 
-### Pre-Training and Post-Training
+### Pre-Training and Post-Training (Lec [07](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_07.pdf))
 - Pre-Training Paradigms
 - Post-Training: Fine-Tuning and Instruction Tuning
 - Alignment: Reward Learning and Reinforcement Learning from Human Feedback (RLHF)
