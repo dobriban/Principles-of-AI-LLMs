@@ -34,7 +34,7 @@ The course is structured around topics such as transformer architectures, empiri
 - Post-Training: Fine-Tuning and Instruction Tuning
 - Alignment: Reward Learning and Reinforcement Learning from Human Feedback (RLHF)
 
-### Inference and Decoding (Test-Time Computation)
+### Inference, Decoding, and Test-Time Computation (Lec [08](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_08.pdf))
 - Simple and Advanced Sampling Methods
 - Prompting, Chain-of-Thought, and Tree-of-Thought
 - Reasoning
