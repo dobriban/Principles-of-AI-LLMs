@@ -1,12 +1,10 @@
 # Principles of AI: LLMs (UPenn, Stat 9911, Spring 2025)
 
-This course explores of Large Language Models (LLMs), from their fundamental principles to cutting-edge research directions. We aim to discuss the design and future of AI systems through lecture content and student-led presentations.
+This course explore Large Language Models (LLMs), from the basics to cutting-edge research. 
 
 ## Reference Materials
 - [Course Syllabus](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/syllabus.pdf). 
 - [Lecture  Notes](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Principles_of_AI.pdf); Work in progress.
-
-## Lectures
 
 ## Lectures
 
