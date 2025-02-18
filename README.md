@@ -1,5 +1,7 @@
 # Principles of AI: LLMs (UPenn, Stat 9911, Spring 2025)
 
+Instructor: [Edgar Dobriban](https://statistics.wharton.upenn.edu/profile/dobriban/)
+
 This course explore Large Language Models (LLMs), from the basics to cutting-edge research. 
 
 ## Reference Materials
@@ -8,18 +10,19 @@ This course explore Large Language Models (LLMs), from the basics to cutting-edg
 
 ## Lectures
 
-| Lecture | Topic | Link |
-|---------|------------------------------------------------------------|----------------------------------------------------------------|
-| 01      | Motivation and Context                       | [📄 Lec 01](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_01.pdf) |
-| 02      | AI: Goals and definitions. The role of LLMs.            | [📄 Lec 02](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_02.pdf) |
-| 03      | LLM architectures: attention and transformers.                     | [📄 Lec 03](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_03.pdf) |
-| 04      | Insight into transformer architectures.                      | [📄 Lec 04](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_04.pdf) |
-| 05      | Position encoding. | [📄 Lec 05](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_05.pdf) |
-| 06      | Specific LLM families: GPT, Llama, DeepSeek, LLM360.   | [📄 Lec 06](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_06.pdf) |
-| 07      |  Training LLMs: pre- and post-training, supervised fine-tuning, learning from preferences (PPO, DPO, GRPO). | [📄 Lec 07](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_07.pdf) |
-| 08      | Test-time computation: sampling, prompting, reasoning.  | [📄 Lec 08](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_08.pdf) |
-| 09      | Empirical Behaviors: Scaling Laws, Emergence, Memorization, Super-Phenomena. | [📄 Lec 09](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_09.pdf) |
+Here is the reformatted table with the lecture links in the first column and the "Lecture" column removed:
 
+| Link | Topic |
+|------|------------------------------------------------------------|
+| [📄 Lec 01](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_01.pdf) | Motivation and Context |
+| [📄 Lec 02](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_02.pdf) | AI: Goals and definitions. The role of LLMs. |
+| [📄 Lec 03](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_03.pdf) | LLM architectures: attention and transformers. |
+| [📄 Lec 04](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_04.pdf) | Insight into transformer architectures. |
+| [📄 Lec 05](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_05.pdf) | Position encoding. |
+| [📄 Lec 06](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_06.pdf) | Specific LLM families: GPT, Llama, DeepSeek, LLM360. |
+| [📄 Lec 07](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_07.pdf) | Training LLMs: pre- and post-training, supervised fine-tuning, learning from preferences (PPO, DPO, GRPO). |
+| [📄 Lec 08](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_08.pdf) | Test-time computation: sampling, prompting, reasoning. |
+| [📄 Lec 09](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_09.pdf) | Empirical Behaviors: scaling laws, emergence, memorization, super-phenomena. |
 
 ## Student Presentations
 After initial lectures, students will lead presentations on topics of their choice in recent advances or research questions in AI. 
