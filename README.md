@@ -33,7 +33,7 @@ This course explore Large Language Models (LLMs), from the basics to cutting-edg
 - [Language Modeling from Scratch](https://stanford-cs336.github.io/spring2024/), Stanford, Spring 2024
 - [Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/), U of Waterloo, Winter 2024
 - [Large Models](https://www.cs.toronto.edu/~cmaddis/courses/csc2541_w25/), U of Toronto, Winter 2025
-
+- [Advanced NLP](https://cmu-l3.github.io/anlp-spring2025/), CMU, Spring 2025
 
 ### Videos 
 - Andrej Karpathy's [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) video lectures. 100% coding-based, hands-on tutorial on implementing basic autodiff, neural nets, language models, and GPT-2 mini (124M params). 
