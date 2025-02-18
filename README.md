@@ -5,7 +5,7 @@ Instructor: [Edgar Dobriban](https://statistics.wharton.upenn.edu/profile/dobrib
 This course explore Large Language Models (LLMs), from the basics to cutting-edge research. 
 
 ## Reference Materials
-- [Course Syllabus](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/syllabus.pdf). 
+- [Course Syllabus](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/syllabus.pdf). 
 - [Lecture  Notes](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Principles_of_AI.pdf); Work in progress.
 
 ## Lectures
