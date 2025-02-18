@@ -10,8 +10,6 @@ This course explore Large Language Models (LLMs), from the basics to cutting-edg
 
 ## Lectures
 
-Here is the reformatted table with the lecture links in the first column and the "Lecture" column removed:
-
 | Link | Topic |
 |------|------------------------------------------------------------|
 | [📄 Lec 01](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_01.pdf) | Motivation and Context |
