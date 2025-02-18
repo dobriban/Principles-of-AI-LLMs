@@ -23,7 +23,9 @@ This course explore Large Language Models (LLMs), from the basics to cutting-edg
 | [📄 Lec 09](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Lec/Stat_9911_Lec_09.pdf) | Empirical Behaviors: scaling laws, emergence, memorization, super-phenomena. |
 
 ## Student Presentations
-After initial lectures, students will lead presentations on topics of their choice in recent advances or research questions in AI. 
+
+- [topic](link) by Student Name.
+- [topic](link) by Student Name.
 
 ## Additional Resources
 ### Links to other courses
