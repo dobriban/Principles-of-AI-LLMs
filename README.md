@@ -6,31 +6,21 @@ This course explores of Large Language Models (LLMs), from their fundamental pri
 - [Course Syllabus](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/syllabus.pdf). 
 - [Lecture  Notes](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Principles_of_AI.pdf); Work in progress.
 
-## Lecture Content
+## Lectures
 
-### Introduction (Lec [01](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_01.pdf), [02](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_02.pdf))
-- What is AI? Definitions and Goals
-- Historical Overview of Artificial Intelligence
-- The Challenge of AGI and Feasibility of AI in Daily Tasks
+## Lectures
 
-### LLM Architectures (Lec [03](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_03.pdf), [04](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_04.pdf), [05](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_05.pdf), [06](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_06.pdf))
-- Input/Output Processing in AI Systems
-- Transformer Mechanisms and Attention
-- Key Architecture Details: Positional Encoding, Faster Attention
-- Variations Across Model Architectures (e.g., GPT, Llama)
-- Extensions: Vision and Multimodal Language Models
-
-### Pre-Training and Post-Training (Lec [07](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_07.pdf))
-- Pre-Training Paradigms
-- Post-Training: Fine-Tuning and Instruction Tuning
-- Alignment: Reward Learning and Reinforcement Learning from Human Feedback (RLHF)
-
-### Inference, Decoding, and Test-Time Computation (Lec [08](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_08.pdf))
-- Simple and Advanced Sampling Methods
-- Prompting, Chain-of-Thought, and Tree-of-Thought
-- Reasoning
-
-### Empirical Behaviors: Scaling Laws, Emergence, Memorization, Super-Phenomena  (Lec [09](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_09.pdf))
+| Lecture | Topic | Link |
+|---------|------------------------------------------------------------|----------------------------------------------------------------|
+| 01      | Motivation and Context                       | [📄 Lec 01](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_01.pdf) |
+| 02      | AI: Goals and definitions. The role of LLMs.            | [📄 Lec 02](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_02.pdf) |
+| 03      | LLM architectures: attention and transformers.                     | [📄 Lec 03](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_03.pdf) |
+| 04      | Insight into transformer architectures.                      | [📄 Lec 04](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_04.pdf) |
+| 05      | Position encoding. | [📄 Lec 05](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_05.pdf) |
+| 06      | Specific LLM families: GPT, Llama, DeepSeek, LLM360.   | [📄 Lec 06](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_06.pdf) |
+| 07      |  Training LLMs: pre- and post-training, supervised fine-tuning, learning from preferences (PPO, DPO, GRPO). | [📄 Lec 07](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_07.pdf) |
+| 08      | Test-time computation: sampling, prompting, reasoning.  | [📄 Lec 08](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_08.pdf) |
+| 09      | Empirical Behaviors: Scaling Laws, Emergence, Memorization, Super-Phenomena. | [📄 Lec 09](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_09.pdf) |
 
 
 ## Student Presentations
