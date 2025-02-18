@@ -2,14 +2,6 @@
 
 This course explores of Large Language Models (LLMs), from their fundamental principles to cutting-edge research directions. We aim to discuss the design and future of AI systems through lecture content and student-led presentations.
 
-The course is structured around topics such as transformer architectures, empirical behaviors, training paradigms, and safety considerations. Students will also explore emerging challenges and the broader implications of AI technologies.
-
-## Course Topics and Goals
-- Introduce fundamental concepts in AI and LLMs.
-- Discuss architecture and principles of LLMs, including transformers.
-- Explore topics in LLMs and modern AI systems such as training paradigms (pre-training, post-training, alignment), inference/test-time computations, embeddings/representations, evaluations, capabilities, safety/security (jailbreaking, oversight, hallucinations, uncertainty), interpretability (circuits).
-- Student presentations on key research papers and recent breakthroughs.
-
 ## Reference Materials
 - [Course Syllabus](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/syllabus.pdf). 
 - [Lecture  Notes](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Principles_of_AI.pdf); Work in progress.
@@ -26,7 +18,6 @@ The course is structured around topics such as transformer architectures, empiri
 - Transformer Mechanisms and Attention
 - Key Architecture Details: Positional Encoding, Faster Attention
 - Variations Across Model Architectures (e.g., GPT, Llama)
-- Empirical Behavior: Scaling Laws, Emergence
 - Extensions: Vision and Multimodal Language Models
 
 ### Pre-Training and Post-Training (Lec [07](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_07.pdf))
@@ -39,14 +30,8 @@ The course is structured around topics such as transformer architectures, empiri
 - Prompting, Chain-of-Thought, and Tree-of-Thought
 - Reasoning
 
-### Safety and Robustness
-- Jailbreaking and Oversight Mechanisms
-- Addressing Hallucinations in AI Systems
-- Ensuring Robustness and Security
+### Empirical Behaviors: Scaling Laws, Emergence, Memorization, Super-Phenomena  (Lec [09](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Stat_9911_Lec_09.pdf))
 
-### Mechanistic Interpretability
-- Embeddings and Representations
-- Transformer Circuits
 
 ## Student Presentations
 After initial lectures, students will lead presentations on topics of their choice in recent advances or research questions in AI. 
