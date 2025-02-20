@@ -24,8 +24,8 @@ This course explore Large Language Models (LLMs), from the basics to cutting-edg
 
 ## Student Presentations
 
-- [topic](link) by Student Name.
-- [topic](link) by Student Name.
+- [Calibrated Language Models Must Hallucinate](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/LLM_hallucination_Noarov.pdf) by Georgy Noarov.
+- [Representations in Deep Neural Networks](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/STAT9911_representations_Rudoler.pdf) by Joseph H. Rudoler.
 
 ## Additional Resources
 ### Links to other courses
