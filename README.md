@@ -2,7 +2,7 @@
 
 Instructor: [Edgar Dobriban](https://statistics.wharton.upenn.edu/profile/dobriban/)
 
-This course explore Large Language Models (LLMs), from the basics to cutting-edge research. 
+This course explores Large Language Models (LLMs), from the basics to cutting-edge research. 
 
 ## Reference Materials
 - [Course Syllabus](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/syllabus.pdf). 
