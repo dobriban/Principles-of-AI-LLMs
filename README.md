@@ -26,7 +26,7 @@ This course explores Large Language Models (LLMs), from the basics to cutting-ed
 
 - [Calibrated Language Models Must Hallucinate](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/LLM_hallucination_Noarov.pdf) by Georgy Noarov.
 - [Representations in Deep Neural Networks](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/STAT9911_representations_Rudoler.pdf) by Joseph H. Rudoler.
-- [Representations in Deep Neural Networks](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/varun-slides-ppt.pptx) by Varun Gupta.
+- [First-Person Fairness in Chatbots](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/varun-slides-ppt.pptx) by Varun Gupta.
 - [LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/PrinciplesOfAI-class_presentation.pptx) by Ryan Chan.
 
 
