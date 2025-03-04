@@ -29,6 +29,7 @@ This course explores Large Language Models (LLMs), from the basics to cutting-ed
 - [First-Person Fairness in Chatbots](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/varun-slides-ppt.pptx) by Varun Gupta.
 - [LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/PrinciplesOfAI-class_presentation.pptx) by Ryan Chan.
 - [Representational Abilities of Transformers](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/transformer-rep.pdf) by Soham Mallick and Manit Paul.
+- [AI Control: Protocols and methods for deploying untrusted AI models](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/AI_Control.pdf) by Davis Brown.
 
 ## Additional Resources
 ### Links to other courses
