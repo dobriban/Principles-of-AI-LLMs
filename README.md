@@ -34,6 +34,8 @@ This course explores Large Language Models (LLMs), from the basics to cutting-ed
 - [Various forms of preference optimization](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Preference_optimization.pdf) by Tao Wang and Sunay Joshi.
 - [Adversarial Reasoning in LLMs](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Adversarial_Reasoning.pdf) by Mahdi Sabbaghi.
 - [Transformer Circuits: Mathematical Framework and In-context Learning](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Transformer_circuits.pdf) by Hwai-Liang Tung & Yu Huang.
+- [Model Collapse](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Model_Collapse.pdf) by Xuyang Chen & Xianglong Hou.
+
 
 
 ## Additional Resources
