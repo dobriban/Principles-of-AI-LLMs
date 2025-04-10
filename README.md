@@ -37,7 +37,8 @@ This course explores Large Language Models (LLMs), from the basics to cutting-ed
 - [Model Collapse](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Model_Collapse.pdf) by Xuyang Chen & Xianglong Hou.
 - [Weak to Strong Generalization](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Weak_to_Strong.pdf) by Behrad Moniti.
 - [Diagnosis of Alzheimer’s disease and other biomedical applications using vision transformers and large language models](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Presentation_ThomasYu.pptx) by Thomas Yu.
-- [Building Effective LLM Powered Autonomous Agents](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/AI_Agents.pdf) byKewen Qu & Ruofan Wang.
+- [Building Effective LLM Powered Autonomous Agents](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/AI_Agents.pdf) by Kewen Qu & Ruofan Wang.
+- [Post-Processing for Group Fairness: Applications to Classifiers and LLMs](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/FairClassifier.pdf) by Yuqing Lei & Binghao Yan.
 
 
 ## Additional Resources
