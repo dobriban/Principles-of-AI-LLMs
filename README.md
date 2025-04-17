@@ -39,8 +39,7 @@ This course explores Large Language Models (LLMs), from the basics to cutting-ed
 - [Diagnosis of Alzheimer’s disease and other biomedical applications using vision transformers and large language models](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Presentation_ThomasYu.pptx) by Thomas Yu.
 - [Building Effective LLM Powered Autonomous Agents](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/AI_Agents.pdf) by Kewen Qu & Ruofan Wang.
 - [Post-Processing for Group Fairness: Applications to Classifiers and LLMs](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/FairClassifier.pdf) by Yuqing Lei & Binghao Yan.
-- [Distributed Training Strategies for Large Language Models](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/
-distributed_strategies.pptx) by Tingyin Wang &, Siqi Chen.
+- [Distributed Training Strategies for Large Language Models](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/distributed_strategies.pptx) by Tingyin Wang &, Siqi Chen.
 - [Chain of Thought Prompting](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/CoT.pdf) by Yiwen Lu & Lu Li.
 
 
