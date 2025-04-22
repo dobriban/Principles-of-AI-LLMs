@@ -41,6 +41,10 @@ This course explores Large Language Models (LLMs), from the basics to cutting-ed
 - [Post-Processing for Group Fairness: Applications to Classifiers and LLMs](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/FairClassifier.pdf) by Yuqing Lei & Binghao Yan.
 - [Distributed Training Strategies for Large Language Models](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/distributed_strategies.pptx) by Tingyin Wang &, Siqi Chen.
 - [Chain of Thought Prompting](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/CoT.pdf) by Yiwen Lu & Lu Li.
+- [Existential Risk](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/x_risk_presentation_pre.pptx) by Yijun Fan.
+- [Jailbreaking Multi-Modal LLMs](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/HANDOUT_STAT_9911_Presentation_Jailbreaking_Henry_Shugart.pdf) by Henry Shugart.
+
+
 
 
 
