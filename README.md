@@ -43,6 +43,8 @@ This course explores Large Language Models (LLMs), from the basics to cutting-ed
 - [Chain of Thought Prompting](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/CoT.pdf) by Yiwen Lu & Lu Li.
 - [Existential Risk](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/x_risk_presentation_pre.pptx) by Yijun Fan.
 - [Jailbreaking Multi-Modal LLMs](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/HANDOUT_STAT_9911_Presentation_Jailbreaking_Henry_Shugart.pdf) by Henry Shugart.
+- [Jailbreaking Multi-Modal LLMs](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Safety_for_Agents_Presentation.pdf) by Zhanran (Chris) Lin.
+- [Jailbreaking Multi-Modal LLMs](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Causal.pdf) by Kai Cooper.
 
 
 
