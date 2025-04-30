@@ -45,6 +45,7 @@ This course explores Large Language Models (LLMs), from the basics to cutting-ed
 - [Jailbreaking Multi-Modal LLMs](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/HANDOUT_STAT_9911_Presentation_Jailbreaking_Henry_Shugart.pdf) by Henry Shugart.
 - [Safety for LLM Agents](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Safety_for_Agents_Presentation.pdf) by Zhanran (Chris) Lin.
 - [LLMs and Causal Inference](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Causal.pdf) by Kai Cooper.
+- [Efficient LLM Inference from the Sparsity Perspective](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/efficient_llms_presentation.pdf) by Yuzhe Gu.
 
 
 
