@@ -47,7 +47,7 @@ This course explores Large Language Models (LLMs), from the basics to cutting-ed
 - [LLMs and Causal Inference](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Causal.pdf) by Kai Cooper.
 - [Efficient LLM Inference from the Sparsity Perspective](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/efficient_llms_presentation.pdf) by Yuzhe Gu.
 - [LLM alignment: additional topics in preference optimization](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/LLM_alignment.pdf) by Zhuoran Xu and Shihan Chen.
-- Uncertainty Quantification for Large Language Models [Part 1](https://drive.google.com/file/d/1YNOFUIilLHZUuhyfh0-O2bNvzMsbnIpa/view) by Anne Somalwar & Sima Noorani.
+- Uncertainty Quantification for Large Language Models: [Part 1](https://drive.google.com/file/d/1YNOFUIilLHZUuhyfh0-O2bNvzMsbnIpa/view) by Anne Somalwar & Sima Noorani.
 
 
 
