@@ -48,7 +48,7 @@ This course explores Large Language Models (LLMs), from the basics to cutting-ed
 - [Efficient LLM Inference from the Sparsity Perspective](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/efficient_llms_presentation.pdf) by Yuzhe Gu.
 - [LLM alignment: additional topics in preference optimization](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/LLM_alignment.pdf) by Zhuoran Xu and Shihan Chen.
 - Uncertainty Quantification for Large Language Models: [Part 1](https://drive.google.com/file/d/1YNOFUIilLHZUuhyfh0-O2bNvzMsbnIpa/view) by Anne Somalwar & Sima Noorani.
-
+- [How to Optimally Quantify Uncertainty for Risk-Averse Agents](https://github.com/dobriban/Principles-of-AI-LLMs/blob/main/Pres/Risk_Averse-UQ.pdf) by Shayan Kiyani. [video](https://drive.google.com/file/d/1a7Ifrma7mxouND_mQIkaFM9u9tbBiWFa/view?usp=sharing).
 
 
 
